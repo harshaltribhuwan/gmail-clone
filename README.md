@@ -1,4 +1,4 @@
-# Technologies used: React.js, Redux, Material-UI, CSS, and Firebase. 
+# Technologies used: React.js, Redux, Material-UI, CSS, and Firebase.  
 
 ## Home Page
 ![image](https://user-images.githubusercontent.com/73797796/134780113-fdc10f81-3110-4ccb-9af1-c3fb8ee4686c.png)
